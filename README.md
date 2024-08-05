@@ -1,14 +1,15 @@
 # StoreShoppy UI Assignment
 
 ## Techstach
-  - ReactJS
-  - TailwindCSS
+  - ReactJS, TailwindCSS
 
 ---
 
 ## Components Structure
 - SideBar
-  - Content
+  - Content * n
+
+- Hide
 
 - Main
  - Navbar

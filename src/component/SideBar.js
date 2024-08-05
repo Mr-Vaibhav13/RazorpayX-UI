@@ -21,7 +21,7 @@ import { FiArrowRight } from "react-icons/fi";
 
 const SideBar = () => {
   return (
-    <div className='w-[16vw] bg-[#1A212B]'>
+    <div className='w-[16vw] bg-[#1A212B] h-[100%] fixed'>
         
         <img className='w-[12vw] pt-2 pl-2' 
         src={RazorpayX} alt='RazorPayX logo' />
